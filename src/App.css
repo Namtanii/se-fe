@@ -16,6 +16,7 @@
   display: flex;
   width: 100vw;
   min-height: 100vh;
+  /* background-image: url("./src/component/img/BarBG(4K).jpg"); */
 }
 
 nav {

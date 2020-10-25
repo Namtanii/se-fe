@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 class Bars extends Component {
     render() {
         return (
-            <div className="condiv bars">
+            <div className="condiv bars"> 
                 <h1>Bar's Name</h1>
                 <img src="https://bk.asia-city.com/sites/default/files/u142691/cube_fb.jpg" alt="bars" className="barpic"/>
                 <h2>Pending Reserve</h2> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
